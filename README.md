@@ -1,5 +1,5 @@
 ## 介绍
-使用 Vite 搭建的 React 模板 , 内置 antd 、mobx 、eslint、prettier 以及在 commit 前对代码进行校验
+使用 Vite 搭建的 React 模板 , 内置 Antd 、Mobx 、ESLint、Prettier 以及在 commit 前对代码进行校验
 
 ## 启动项目
 
@@ -11,6 +11,11 @@ yarn dev
 
 ```shell
 yarn build
+```
+
+## Lint
+``` shell
+yarn lint
 ```
 
 ## 目录结构
